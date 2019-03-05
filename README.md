@@ -1,4 +1,4 @@
-# advtrg
+# ReadMe Pre-Release A
 Triangular Billiard PO Toolbox
 
 Computes a given triangular billiard's trajectory.
